@@ -53,7 +53,7 @@
   "skillList": [],
   "projectList": [
     {
-      "project_name": "某反欺诈项目",
+      "project_name": "某反欺诈项目群",
       "project_role": "技术经理 / 开发工程师",
       "project_desc": "利用保险数据助力企业降低欺诈风险：将源数据加工为标签数据，为客户提供相应的欺诈风险提示",
       "project_content": "在资源、工期紧张情况下，确保项目按期上线；优化接口查询效率，并发量已达300笔/s，平均响应时间低于100ms"
@@ -68,7 +68,19 @@
       "project_name": "公司内部开发框架",
       "project_role": "核心开发者",
       "project_desc": "基于SpringBoot 和 Vue的单体应用开发框架, 核心是基于角色的动态权限管理模块, 理念是轻量级、低入侵、模块化、注解化，以求最小化框架学习成本，易上手；",
-      "project_content": "从0到1实现整体框架: 后端技术栈：SpringBoot2/MyBatisPlus/Redis/redisson/MySQL/PostgresQL; 前端技术栈：Vue3/ElementPlus/Axios/VueUse/Vite/UnoCSS/pnpm/Pinia/"
+      "project_content": "从0到1实现整体框架: \n后端技术栈：SpringBoot2/MyBatisPlus/Redis/redisson/MySQL/PostgresQL; \n前端技术栈：Vue3/ElementPlus/Axios/VueUse/Vite/UnoCSS/pnpm/Pinia/"
+    },
+    {
+      "project_name": "实习项目经历",
+      "project_role": "Python后端开发(实习)",
+      "project_desc": "技术栈：Python / Django / MySQL / Docker / Elastic Search / Filebeat / Logstash",
+      "project_content": "开发日志审计模块，使用Filebeat+LogStash+ES对日志数据进行收集、预处理和索引"
+    },
+    {
+      "project_name": "在校项目经历",
+      "project_role": "Python后端开发(实习)",
+      "project_desc": "基于Web的无人机与植保作业管理与监视系统，实现无人机管理、植保作业管理、电子围栏系统、飞行轨迹可视化、4G模块的发送与接收、Restful API等功能",
+      "project_content": "电子围栏系统、基于R树植保作业索引、飞行轨迹可视化、基于Storm实时计算植保作业推荐等功能，系统包含7大模块，20多个功能，30多个页面"
     }
   ],
   "aboutme": {
