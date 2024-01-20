@@ -1,0 +1,77 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "awardList": "相关证书",
+    "aboutme": "个人评价"
+  },
+  "profile": {
+    "name": "杨 *",
+    "email": "421826500@qq.com",
+    "qq": "421826500",
+    "mobile": "188****7357",
+    "github": "https://github.com/dexyang",
+    "workExpYear": "5+"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2011.09.01",
+        "2018.01.30"
+      ],
+      "school": "北京二流985",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科&硕士"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET6",
+      "award_time": "2013"
+    },
+    {
+      "award_info": "PMP",
+      "award_time": "2021"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "某央企",
+      "department_name": "研发部",
+      "work_time": [
+        "2018.04",
+        null
+      ],
+      "work_desc": "技术经理：负责项目需求编写和整体架构设计，主导开发工作和系统调优，管理项目进度、成本、质量等，管理开发团队，协调相关方"
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "某反欺诈项目",
+      "project_role": "技术经理 / 开发工程师",
+      "project_desc": "利用保险数据助力企业降低欺诈风险：将源数据加工为标签数据，为客户提供相应的欺诈风险提示",
+      "project_content": "在资源、工期紧张情况下，确保项目按期上线；优化接口查询效率，并发量已达300笔/s，平均响应时间低于100ms"
+    },
+    {
+      "project_name": "某数据收集平台",
+      "project_role": "技术经理 / 开发工程师",
+      "project_desc": "统一归集保险公司数据并去重，页面提供清单级查询和文件浏览功能",
+      "project_content": "分迭代顺利完成项目开发，目前已装载数据量超过百亿级"
+    },
+    {
+      "project_name": "内部开发框架",
+      "project_role": "核心开发者",
+      "project_desc": "基于SpringBoot 和 Vue的单体应用开发框架, 核心是基于角色的动态权限管理模块, 理念是轻量级、低入侵、模块化、注解化，以求最小化框架学习成本，易上手；",
+      "project_content": "从0到1实现整体框架: 后端技术栈：SpringBoot2/MyBatisPlus/Redis/redisson/MySQL/PostgresQL; 前端技术栈：Vue3/ElementPlus/Axios/VueUse/Vite/UnoCSS/pnpm/Pinia/"
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "熟悉Java和SpringBoot，掌握MyBatisPlus，熟悉xxl-job，热爱面向切面编程；熟悉JavaScript / TypeScript，熟悉Vue3、ElementPlus、Vite、VueUse、Unocss/Tailwind等；掌握WebAssembly(emcc) / WebWorker / WebRTC(peerjs)等技术；熟悉Python，掌握Django、Numpy、Pandas，对使用C和Ctypes优化Python/避开GIL有经验；熟悉Redis、Kettle、MySQL、HBase、Hive、Kudu等，了解ElasticSearch，Filebeat，Logstash；掌握基本数据结构和算法，HTTP，计算机网络，分布式，负载等知识；熟悉项目管理方法与项目全生命周期的各环节工作；英语水平：CET-6，听力较好，日常查阅各开源项目的英文文档；本人做事比较细心，考虑问题比较细致，有较强的学习能力。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
